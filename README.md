@@ -1,6 +1,6 @@
 # :notebook_with_decorative_cover: Jupyter Notebook Research Project
 ## Авторы:
-* [Тот Андраш]()
+* [Тот Андраш](https://github.com/tothandras-hse)
 * [Шалаев Алексей](https://github.com/AlexeyShalaev)
 
 
