@@ -2,6 +2,7 @@ import yaml
 
 config_file = '../config.yaml'
 
+
 def get_config():
     with open(config_file) as file:
         # The FullLoader parameter handles the conversion from YAML
