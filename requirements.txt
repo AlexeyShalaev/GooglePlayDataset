@@ -1,0 +1,4 @@
+pandas
+pandas-profiling
+scikit-learn
+numpy==1.21
