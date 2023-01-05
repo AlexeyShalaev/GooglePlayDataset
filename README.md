@@ -9,11 +9,11 @@
 ### Шаг :one:: Сбор данных
 [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
-### STEP :two:: Подготовка
+### STEP :two:: [Подготовка](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/data_exploration.ipynb)
 * Описание датасета
 * Изменение данных
 
-### STEP :three:: Исследование
+### STEP :three:: [Исследование](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/data_research.ipynb)
 * гипотезы
 * графики
 * таблицы
