@@ -2,16 +2,16 @@ from enum import Enum
 
 
 class Rating(Enum):
-    EXCELLENT = 'excellent'  # sum of points => 80%
-    GOOD = 'good'  # 60% <= sum of points < 80%
-    SATISFACTORY = 'satisfactory'  # 40% <= sum of points < 60%
-    UNSATISFACTORY = 'unsatisfactory'  # sum of points < 40%
-    NULL = 'null'
+    EXCELLENT = 5  # sum of points => 80%
+    GOOD = 4  # 60% <= sum of points < 80%
+    SATISFACTORY = 3  # 40% <= sum of points < 60%
+    UNSATISFACTORY = 2  # sum of points < 40%
+    NULL = 0
 
 
 def get_rating(value: float) -> Rating:
     try:
-        percent = float(value) / 20
+        percent = float(value) / 5
         if percent < 0.4:
             return Rating.UNSATISFACTORY
         elif percent < 0.6:
