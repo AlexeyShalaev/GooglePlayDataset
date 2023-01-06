@@ -1,4 +1,5 @@
 pandas
 pandas-profiling
 scikit-learn
+ipywidgets
 numpy==1.21

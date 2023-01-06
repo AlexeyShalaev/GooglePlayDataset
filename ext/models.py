@@ -1,4 +1,5 @@
 from enum import Enum
+from datetime import datetime
 
 
 class Rating(Enum):
@@ -22,3 +23,25 @@ def get_rating(value: float) -> Rating:
             return Rating.EXCELLENT
     except:
         return Rating.NULL
+
+
+class Season(Enum):
+    WINTER = 'winter'  # Зима
+    SPRING = 'spring'  # Весна
+    SUMMER = 'summer'  # Лето
+    AUTUMN = 'autumn'  # Осень
+    NULL = 'null'
+
+
+def get_season(date: datetime) -> Season:
+    month = date.month
+    if month == 12 or month <= 2:
+        return Season.WINTER
+    elif month <= 5:
+        return Season.SPRING
+    elif month <= 8:
+        return Season.SUMMER
+    elif month <= 11:
+        return Season.AUTUMN
+    else:
+        return Season.NULL
