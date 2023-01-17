@@ -20,6 +20,10 @@
 * корреляции
 * выводы
 
+### STEP :four:: [WebScrapping](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/webscraping_movies.ipynb)
+* [Ручной парсинг](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/kinopoisk_movies_top250.xlsx)
+* [API](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/kinopoisk_movies_top250_API.xlsx)
+
 ## TASKS
 
 COMPLETED
