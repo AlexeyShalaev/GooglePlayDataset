@@ -1,4 +1,10 @@
 # :notebook_with_decorative_cover: Jupyter Notebook Research Project
+
+<div align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas.svg"><br>
+</div>
+
+
 ## Авторы:
 * [Тот Андраш](https://github.com/tothandras-hse)
 * [Шалаев Алексей](https://github.com/AlexeyShalaev)
