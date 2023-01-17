@@ -15,18 +15,18 @@
 ### Шаг :one:: Сбор данных
 [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
-### STEP :two:: [Подготовка](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/data_exploration.ipynb)
+### Шаг :two:: [Подготовка](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/data_exploration.ipynb)
 * Описание датасета
 * Изменение данных
 
-### STEP :three:: [Исследование](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/data_research.ipynb)
+### Шаг :three:: [Исследование](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/data_research.ipynb)
 * гипотезы
 * графики
 * таблицы
 * корреляции
 * выводы
 
-### STEP :four:: [WebScrapping](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/webscraping_movies.ipynb)
+### Шаг :four:: [WebScrapping](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/webscraping_movies.ipynb)
 * [Ручной парсинг](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/kinopoisk_movies_top250.xlsx)
 * [API](https://github.com/AlexeyShalaev/GooglePlayDataset/blob/main/kinopoisk_movies_top250_API.xlsx)
 
